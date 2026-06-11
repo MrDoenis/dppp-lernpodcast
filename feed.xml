@@ -112,17 +112,6 @@
       <itunes:duration>26:59</itunes:duration>
     </item>
     <item>
-      <title>Sitzung 10: Persönlichkeitsentwicklung und -veränderung</title>
-      <itunes:episode>10</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <description>DPPP-Vorlesung Sitzung 10 – Persönlichkeitsentwicklung und -veränderung. KI-generierter Deep-Dive-Lernpodcast (Klausurvorbereitung).</description>
-      <itunes:summary>DPPP-Vorlesung Sitzung 10 – Persönlichkeitsentwicklung und -veränderung. KI-generierter Deep-Dive-Lernpodcast (Klausurvorbereitung).</itunes:summary>
-      <enclosure url="https://github.com/MrDoenis/dppp-lernpodcast/releases/download/audio/DPPP_VL_Sitzung10_Podcast.m4a" length="55141709" type="audio/mp4"/>
-      <guid isPermaLink="false">dppp-10</guid>
-      <pubDate>Sat, 10 Jan 2026 08:00:00 -0000</pubDate>
-      <itunes:duration>28:33</itunes:duration>
-    </item>
-    <item>
       <title>Sitzung 11: Soziale Beziehungen</title>
       <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
